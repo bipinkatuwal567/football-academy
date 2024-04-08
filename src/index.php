@@ -22,6 +22,36 @@
                 <button><a href="#">Join Now</a></button>
             </div>
         </main>
+
+        <section class="our-service">
+            <h2>Let's Check Our Services</h2>
+            <div class="cards">
+                <div class="card">
+                    <div class="img"><img src="../assets/soccer-player.png" alt=""></div>
+                    <h3>Training</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <button><a href="#">Learn More</a></button>
+                </div>
+                <div class="card">
+                    <div class="img"><img src="../assets/document.png" alt=""></div>
+                    <h3>Authority</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <button><a href="#">Learn More</a></button>
+                </div>
+                <div class="card">
+                    <div class="img"><img src="../assets/clock.png" alt=""></div>
+                    <h3>Precison & Timing</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <button><a href="#">Learn More</a></button>
+                </div>
+                <div class="card">
+                    <div class="img"><img src="../assets/trophy.png" alt=""></div>
+                    <h3>Championship</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <button><a href="#">Learn More</a></button>
+                </div>
+            </div>
+        </section>
     </div>
 </body>
 
