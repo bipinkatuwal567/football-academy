@@ -52,6 +52,72 @@
                 </div>
             </div>
         </section>
+
+        <section class="about-us">
+            <h2>About us</h2>
+            <div class="about-us-content">
+                <h2>Find Out Why You Admit Our Academy</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam quo dolore minus ea vitae ad ut quidem eaque.</p>
+                <button><a href="#">Join Now</a></button>
+            </div>
+        </section>
+
+        <section class="stats">
+            <div class="stats-container">
+                <div class="stats-card">
+                    <p>Awards</p>
+                    <h3>35</h3>
+                </div>
+                <div class="stats-card">
+                    <p>Awards</p>
+                    <h3>35</h3>
+                </div>
+                <div class="stats-card">
+                    <p>Awards</p>
+                    <h3>35</h3>
+                </div>
+                <div class="stats-card">
+                    <p>Awards</p>
+                    <h3>35</h3>
+                </div>
+            </div>
+        </section>
+
+        <section class="staff-details">
+            <h2>Meet our coaching staff</h2>
+            <div class="staff-cards">
+                <div class="staff-card">
+                    <img src="../assets/coach.jpg" alt="coach">
+                    <h3>Marvin MacKinney</h3>
+                    <p>Coach</p>
+                </div>
+                <div class="staff-card">
+                    <img src="../assets/coach.jpg" alt="coach">
+                    <h3>Marvin MacKinney</h3>
+                    <p>Coach</p>
+                </div>
+                <div class="staff-card">
+                    <img src="../assets/coach.jpg" alt="coach">
+                    <h3>Marvin MacKinney</h3>
+                    <p>Coach</p>
+                </div>
+                <div class="staff-card">
+                    <img src="../assets/coach.jpg" alt="coach">
+                    <h3>Marvin MacKinney</h3>
+                    <p>Coach</p>
+                </div>
+                <div class="staff-card">
+                    <img src="../assets/coach.jpg" alt="coach">
+                    <h3>Marvin MacKinney</h3>
+                    <p>Coach</p>
+                </div>
+                <div class="staff-card">
+                    <img src="../assets/coach.jpg" alt="coach">
+                    <h3>Marvin MacKinney</h3>
+                    <p>Coach</p>
+                </div>
+            </div>
+        </section>
     </div>
 </body>
 
